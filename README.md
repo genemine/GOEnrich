@@ -18,5 +18,5 @@ This example is for humans. If you would like to perform analysis for another or
 ##############
 ## Note  #####
 ##############
-### 1. Make sure that the server ID (15000 in this example) in the geneset2go.pl code is the same as that set in the first step where server is started.
+### 1. Make sure that the server ID (15000 in this example) in the geneset2go.pl code is the same as that set in the human_startGOserver_BP_2018.sh code.
 ### 2. If the server ID does not work, change it to any other integer.
