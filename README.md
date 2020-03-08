@@ -3,7 +3,7 @@ GoTermFinder was developed in Princeton University. It is used to perform GO ter
 A web server of GoTermFinder is available at : https://go.princeton.edu/cgi-bin/GOTermFinder.
 
 # How to run
-First download the GOEnrich.zip file and unzip it. Example scripts and data for running GO enrichment is provide.
+First download the GOEnrich.zip file and unzip it. Example scripts and data for running GO enrichment is provided.
 ## 1. Start a server by running the following command
 ```bash
 sh human_startGOserver_BP_2018.sh
