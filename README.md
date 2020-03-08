@@ -12,7 +12,7 @@ sh human_startGOserver_BP_2018.sh
 perl geneset2go.pl example_genelist.txt # this will generate enrichment results with file name suffix being _goea.tab    le.
 ```
 
-###. This example is for humans. If you would like to perform analysis for another organism, just change the gene ann    otation file in the human_startGOserver_BP_2018.sh code.
+This example is for humans. If you would like to perform analysis for another organism, just change the gene ann    otation file in the human_startGOserver_BP_2018.sh code.
 
 ##############
 ## Note  #####
