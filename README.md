@@ -1,12 +1,15 @@
-# GOEnrich
+# GoTermFinder
+GoTermFinder was developed in Princeton University. It is used to perform GO term enrichment analysis. See details in: 
+A web server of GoTermFinder is available at : https://go.princeton.edu/cgi-bin/GOTermFinder.
 
 # start a server by running the following command
-'bash
+```bash
 sh human_startGOserver_BP_2018.sh
-' 
+```
 # run GO enrichment for a user-provided gene list
+```bash
 perl geneset2go.pl example_genelist.txt # this will generate enrichment results with file name suffix being _goea.tab    le.
- 
+``` 
 ##############
 ## Note  #####
 ##############
